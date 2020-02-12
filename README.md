@@ -5,9 +5,16 @@
 
 ## Approach
 Thefollowing steps where implement for revenue predictions:
-• Loaded the required data into the environment
+
+• Loaded the required data into the environmen.
+
 • Cleaning TMDB data
+
 • Exploratory data analysis of TMDB data
-• feature engineering
+
+• Feature engineering
+
 • Keras model
+
 • Model Evaluvation
+
